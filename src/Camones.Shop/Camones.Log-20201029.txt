@@ -1,0 +1,6 @@
+2020-10-29T02:29:16.7776461-05:00  [INF] Now listening on: "http://localhost:7001" (d826f4b8)
+2020-10-29T02:29:16.7856160-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T02:29:16.7876801-05:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T02:29:16.7895053-05:00  [INF] Content root path: "C:\Users\Usuario\Desktop\Camones.Shop\src\Camones.Shop" (b5d60022)
+2020-10-29T02:29:22.9428455-05:00 0HM3RRHBUCFT6:00000001 [WRN] Mensaje Warning desde Post Customer (b0bca93f)
+2020-10-29T02:29:22.9477364-05:00 0HM3RRHBUCFT6:00000001 [ERR] Mensaje Error desde Post Customer (a8895ff4)
