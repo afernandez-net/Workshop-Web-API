@@ -1,5 +1,5 @@
-# PeruShop.Common.Repository
-**Workshop Web API Proyecto integro en arquitectura DDD con IdentityServer**
+# Workshop-Web-API
+**Workshop Web API NET CORE 3.1 Proyecto integro en arquitectura DDD con IdentityServer**
 
 Puede seguir los post en [PeruShop](http://www.ventaschinaperu.com/).
 
